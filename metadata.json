@@ -1,0 +1,6 @@
+{
+  "name": "CRM Assurances Courtage",
+  "description": "CRM complet de gestion de leads pour assurances Auto Particulier, VTC et Habitation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
